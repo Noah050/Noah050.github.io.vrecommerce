@@ -1,0 +1,96 @@
+#carouselExampleFade {
+    width: 75%;
+    margin: auto;
+}
+#carouselExampleIndicators {
+    width: 50%;
+    margin-top:10px;
+    margin: auto;
+}
+.bodyindex {
+        background-color: lightgray;
+}
+nav {
+    height: 80px;
+    border-bottom: black 1px solid;
+    position: sticky;
+    top: 0px;
+}
+.navbar-brand {
+    margin-top: 13px;
+}
+.SignUpForm {
+    width: 500px;
+    margin: auto;
+    border: solid black 1px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 80px;
+    background-image: url(VR_Logo.png);
+    background-repeat: no-repeat;
+    background-size: 55px;
+    background-position-x: 440px;
+}
+.imgHome {
+    margin: auto;
+}
+.card {
+    background-color: black;
+    color: white;
+    margin: 10px;
+    height: 460px;
+    font-size: 10px;
+}
+.card:hover {
+    transform: scale(1.1);
+}
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 30px;
+}
+.cart {
+    margin-left: 130px;
+}
+.cart2 {
+    margin-left: 120px;
+}
+.cart3 {
+    margin-left: 100px;
+}
+.bi-cart4 {
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+.imgPage {
+    height: 700px;
+}
+.imgJS {
+    margin-left: 0%;
+    width: 100%;
+    height: 65%;
+}
+.bodyJS {
+    background-color:black;
+
+}
+.textJS {
+    padding: 25px;
+    background-color: black;
+    color: white;
+    width: 35%;
+    height: 0px;
+}
+.buttonJS {
+    margin-left: 700px;
+    margin-bottom: 500px;
+    width: 100px;
+}
+.bi-star-fill {
+    color: white;
+    margin-left: 10px;
+}
+.bi-star-half {
+    color: white;
+    
+}
